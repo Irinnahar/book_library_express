@@ -1,3 +1,12 @@
+/*
+File name : app.ts
+Student’s Name : Irin Nahar
+StudentID: 301173198
+Date: 21/06/2021
+course : COMP 229
+lab: Mid term
+*/
+
 // moddules for node and express
 import createError from 'http-errors';
 import express from 'express';

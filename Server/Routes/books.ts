@@ -1,3 +1,12 @@
+/*
+File name : app.ts
+Student’s Name : Irin Nahar
+StudentID: 301173198
+Date: 21/06/2021
+course : COMP 229
+lab: Mid term
+*/
+
 // modules required for routing
 import express from 'express';
 const router = express.Router();
